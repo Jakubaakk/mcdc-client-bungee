@@ -1,0 +1,5 @@
+webservice:
+  host: http://localhost:8080
+  apiKey: 0c3d5b68-05fe-11ed-b939-0242ac120002
+messages:
+  kick: You are not authorized to play on this server
