@@ -1,0 +1,3 @@
+main: cz.jakubfilko.mcdc.client.bungee.McdcLogin
+name: McdcPlugin
+version: '0.1'
